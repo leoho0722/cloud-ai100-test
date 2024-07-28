@@ -1,0 +1,5 @@
+torch
+
+pip
+pip-autoremove
+setuptools
